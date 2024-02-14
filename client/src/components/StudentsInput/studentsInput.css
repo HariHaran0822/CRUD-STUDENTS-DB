@@ -1,0 +1,37 @@
+.main-insert-container {
+  padding: 1rem;
+  /* border-radius: 1rem; */
+  border: 1px solid grey;
+  width: 300px;
+  margin: 0 auto;
+}
+h3 {
+  margin: 0 0 1rem 0;
+}
+.form-container {
+  display: flex;
+  gap: 1rem;
+  flex-direction: column;
+  min-width: 400;
+  margin: 0 auto;
+}
+.students-input-con {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+#students-input {
+  height: 1.3rem;
+}
+.row-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.row-container-2 {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}

@@ -1,0 +1,29 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 4rem;
+}
+
+.btn-post {
+  background-color: rgb(236, 88, 88);
+  color: white;
+}
+.btn-put {
+  background-color: purple;
+  color: white;
+}
+.btn-get {
+  background-color: rgb(129, 245, 129);
+  color: white;
+}
+.btn-delete {
+  background-color: red;
+  color: white;
+}
